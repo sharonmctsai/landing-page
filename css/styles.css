@@ -7414,3 +7414,10 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+
+
+  .portfolio-item img {
+    width: 100%;
+    height: 250px; /* Adjust the height as needed */
+    object-fit: cover;
+}
